@@ -15,11 +15,37 @@
 <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="300">
 </div>
 
+## How to use?
+
+- **Step 1:** Start the program in the console
+```bash
+python3 main.py
+```
+
+- **Step 2:** Introduce the matrix dimension
+
+![one](https://github.com/ricardojcrux/matrix-calculator/assets/117320464/98634051-a102-43c1-83d0-db43c4fd0ff2)
+
+- **Step 3:** Type the matrix values
+
+![two](https://github.com/ricardojcrux/matrix-calculator/assets/117320464/5d60de69-9a3a-42c5-9695-41359dfdd204)
+
+- **Step 4:** Obtain determinant and inverse matrix if it has one.
+
+![three](https://github.com/ricardojcrux/matrix-calculator/assets/117320464/b3416c18-008d-4e28-b92b-5ed107478e4d)
+
 ## Features
 
 - It does calculation between 2x2 matrix up to 9x9 matrix
 - Display the result of this operation and show it in a textbox formatted .txt for your use
 - Blanks and the text in each box are assumed to be a 0
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first
+to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
 
 ## Authors
 
@@ -29,3 +55,6 @@
 
 - [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ricardojcrux)
 
+-----
+
+This code is only available in Spanish, the English version will be available soon
