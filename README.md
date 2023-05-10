@@ -4,6 +4,17 @@
 
 **[EN]** Using numpy library for the calculation, and tkinter for the visual environment, we have made a matrix calculator that calculates the determinant and the inverse matrix and display it in .txt format to easy copying and further editing
 
+## Language
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+
+## Modules
+
+<div style="display:flex">
+<img src="https://www.skillseekho.com/wp-content/uploads/2022/09/tkinter-logo.png" width="80">
+<img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="200">
+</div>
+
 ## Features
 
 - It does calculation between 2x2 matrix up to 9x9 matrix
