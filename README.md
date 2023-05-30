@@ -10,10 +10,8 @@
 
 ## Modules
 
-<div style="display:flex">
-<img src="https://www.skillseekho.com/wp-content/uploads/2022/09/tkinter-logo.png" width="120">
-<img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" width="300">
-</div>
+- Tkinter
+- NumPy
 
 ## How to use?
 
