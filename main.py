@@ -39,9 +39,11 @@ class Calculadora(Tk):
         self.label.delete(0,END)
 
         if type(cond) == str:
-            self.label.insert(0,'El numero debe de ser un numero')
+            self.label.insert(0,'El número debe de ser un número')
         elif cond < 1:
             self.label.insert(0,'El número no puede ser negativo o cero')
+        elif cond == 1:
+            self.label.insert(0,'El número no puede ser 1')
         elif cond > 9:
             self.label.insert(0,'El número es muy grande para nuestro proceso')
         else:
